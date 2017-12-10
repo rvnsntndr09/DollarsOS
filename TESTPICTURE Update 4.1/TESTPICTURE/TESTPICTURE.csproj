@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9517D0E8-10C8-4332-AE5A-6AAAB8AFADC2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TESTPICTURE</RootNamespace>
+    <AssemblyName>TESTPICTURE</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959424720873169.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959427650872876.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434600872181.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959427814206193.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959427894206185.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mahjong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434250872216.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434300872211.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434380872203.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434687538839.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434740872167.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434780872163.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959435040872137.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959435060872135.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959436070872034.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haha11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haha12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1481848428602909.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChessMCE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mm.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_970609043088070.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xx.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_972525756229732.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_972525759563065.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_972525762896398.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_972525766229731.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_972525769563064.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newrestart.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newrestart1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newexit.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newlogout.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newrestart12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChessMCE2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ChessMCE3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mahjong2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434250872216%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434300872211%282%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434380872203%282%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434687538839%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434740872167%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959434780872163%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959435040872137%282%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959435060872135%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959436070872034%282%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_959424720873169%282%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haha11%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\haha12%282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newexit%282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newlogout%282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newrestart%282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_972525766229731%282%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_972525769563064%282%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1481848428602909%282%29.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

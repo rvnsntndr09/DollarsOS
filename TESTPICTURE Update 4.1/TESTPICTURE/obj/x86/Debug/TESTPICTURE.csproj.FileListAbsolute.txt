@@ -1,0 +1,47 @@
+c:\users\dan\documents\visual studio 2010\Projects\TESTPICTURE\TESTPICTURE\bin\Debug\TESTPICTURE.exe
+c:\users\dan\documents\visual studio 2010\Projects\TESTPICTURE\TESTPICTURE\bin\Debug\TESTPICTURE.pdb
+c:\users\dan\documents\visual studio 2010\Projects\TESTPICTURE\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Form1.resources
+c:\users\dan\documents\visual studio 2010\Projects\TESTPICTURE\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Properties.Resources.resources
+c:\users\dan\documents\visual studio 2010\Projects\TESTPICTURE\TESTPICTURE\obj\x86\Debug\TESTPICTURE.csproj.GenerateResource.Cache
+c:\users\dan\documents\visual studio 2010\Projects\TESTPICTURE\TESTPICTURE\obj\x86\Debug\TESTPICTURE.exe
+c:\users\dan\documents\visual studio 2010\Projects\TESTPICTURE\TESTPICTURE\obj\x86\Debug\TESTPICTURE.pdb
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\TESTPICTURE\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Form2.resources
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\TESTPICTURE\TESTPICTURE\obj\x86\Debug\TESTPICTURE.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.exe
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.pdb
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\TESTPICTURE1\TESTPICTURE\bin\Debug\TESTPICTURE.exe
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\TESTPICTURE1\TESTPICTURE\bin\Debug\TESTPICTURE.pdb
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Form1.resources
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Form2.resources
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Properties.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.csproj.GenerateResource.Cache
+C:\Users\Dan\Desktop\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.exe
+C:\Users\Dan\Desktop\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.pdb
+C:\Users\Dan\Desktop\TESTPICTURE1\TESTPICTURE\bin\Debug\TESTPICTURE.exe
+C:\Users\Dan\Desktop\TESTPICTURE1\TESTPICTURE\bin\Debug\TESTPICTURE.pdb
+C:\Users\Dan\Desktop\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Form1.resources
+C:\Users\Dan\Desktop\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Form2.resources
+C:\Users\Dan\Desktop\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Properties.Resources.resources
+C:\Users\Dan\Desktop\TESTPICTURE1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.csproj.GenerateResource.Cache
+C:\Users\Dan\Desktop\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.exe
+C:\Users\Dan\Desktop\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.pdb
+C:\Users\Dan\Desktop\TESTPICTURE Update 4.1\TESTPICTURE\bin\Debug\TESTPICTURE.exe
+C:\Users\Dan\Desktop\TESTPICTURE Update 4.1\TESTPICTURE\bin\Debug\TESTPICTURE.pdb
+C:\Users\Dan\Desktop\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Form1.resources
+C:\Users\Dan\Desktop\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Form2.resources
+C:\Users\Dan\Desktop\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Properties.Resources.resources
+C:\Users\Dan\Desktop\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.csproj.GenerateResource.Cache
+C:\Users\Dan\Desktop\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Form3.resources
+C:\Users\Dan\Desktop\OS_PROJECT\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.exe
+C:\Users\Dan\Desktop\OS_PROJECT\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.pdb
+C:\Users\Dan\Desktop\OS_PROJECT\TESTPICTURE Update 4.1\TESTPICTURE\bin\Debug\TESTPICTURE.exe
+C:\Users\Dan\Desktop\OS_PROJECT\TESTPICTURE Update 4.1\TESTPICTURE\bin\Debug\TESTPICTURE.pdb
+C:\Users\Dan\Desktop\OS_PROJECT\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.csprojResolveAssemblyReference.cache
+C:\Users\Dan\Desktop\OS_PROJECT\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Form1.resources
+C:\Users\Dan\Desktop\OS_PROJECT\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Form2.resources
+C:\Users\Dan\Desktop\OS_PROJECT\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Form3.resources
+C:\Users\Dan\Desktop\OS_PROJECT\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.Properties.Resources.resources
+C:\Users\Dan\Desktop\OS_PROJECT\TESTPICTURE Update 4.1\TESTPICTURE\obj\x86\Debug\TESTPICTURE.csproj.GenerateResource.Cache
